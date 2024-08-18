@@ -76969,7 +76969,7 @@ A.Xa.prototype={
 $0(){return $.Co().QL(0,A.a([B.oo],t.HG))},
 $S:0}
 A.pN.prototype={
-S(a){var s,r,q,p,o=null,n=[new A.MV("Term's & Privacy Policy",new A.ZU()),new A.MV("FAQ",new A.ZV())],m=A.JX("Moni",o,A.av(a).p2.d,o),l=A.av(a).p2.r
+S(a){var s,r,q,p,o=null,n=[new A.MV("Terms & Privacy Policy",new A.ZU()),new A.MV("FAQ",new A.ZV())],m=A.JX("Moni",o,A.av(a).p2.d,o),l=A.av(a).p2.r
 l=A.JX("Spend Smarter, Save Better",o,l==null?o:l.a83(B.aN),o)
 s=A.a([],t.VO)
 for(r=0;r<2;++r){q=n[r]
